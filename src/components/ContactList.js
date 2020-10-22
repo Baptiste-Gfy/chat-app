@@ -15,17 +15,17 @@ const users = [
   {
     name: 'Vernon Mason',
     avatar: 'https://randomuser.me/api/portraits/men/84.jpg',
-    online: true
+    online: false
   },
   {
     name: 'Erica Hunt',
     avatar: 'https://randomuser.me/api/portraits/women/87.jpg',
-    online: false
+    online: true
   },
   {
     name: 'Juanita Phillips',
     avatar: 'https://randomuser.me/api/portraits/women/55.jpg',
-    online: true
+    online: false
   }
 ];
 
